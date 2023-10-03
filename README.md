@@ -7,3 +7,5 @@
 - 💬 Ask me about technical writing
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Anime fan
+
+[![An image of @amalearner's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/amalearner)](https://holopin.io/@amalearner) 
